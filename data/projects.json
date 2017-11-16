@@ -1,0 +1,18 @@
+{
+	"Mining Maximal Quasi Regular Patterns in Dynamic Networks": {
+		"title": "Mining Maximal Quasi Regular Patterns in Dynamic Networks",
+		"description": "Our work focussed on mining patterns with noise (also known as Quasi Regular Patterns) in Dynamic Networks.",
+		"collaborators": "Professor Anand Gupta and Ambika Gupta",
+		"start": "Tue Jan 10 2017 00:00:00 GMT+0400 (GST)",
+		"links": [
+			{
+				"text": "Paper (Journal)",
+				"href": "http://www.mecs-press.org/ijitcs/ijitcs-v9-n4/IJITCS-V9-N4-7.pdf"
+			}
+		],
+		"group": "research",
+		"importance": 6,
+		"body": "",
+		"updatedAt": "2017-08-29T18:49:38.000Z"
+	}
+}
